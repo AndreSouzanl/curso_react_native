@@ -5,7 +5,7 @@ export default function App() {
   return (
     <View style={estilos.container}>
       <Text style={estilos.texto}>Hello World</Text>
-      <Text>Criado Por DevSouza</Text>
+      <Text>Criado Por DevSouza Jan 2026</Text>
     </View>
   );
 }
