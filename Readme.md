@@ -30,3 +30,24 @@ npx expo install @react-navigation/native
 npx expo install @react-navigation/bottom-tabs
 npx expo install react-native-screens
 npx expo install react-native-safe-area-context
+
+npm install @react-navigation/stack  stack
+
+Passos para criação de um projeto
+
+## Preparação do Ambiente => 1° Estapa
+ É quando criamos o projeto e instalamos as bibliotecas que vamos utilizar através do terminal.
+ Criar o aplicativo e Instalar as bibliotecas referentes a 
+ npm install @react-navigation/native
+ npm install react-native-gesture-handler react-native-renimated react-native-screens react-native-safe-area-content @react-native-community-masked-view 
+
+ 
+## Arquitetural => 2° Estapa
+Nos preocupamos na organização dos arquivos e pasta do projeto. Ao fazer isso conseguimos manter a organização dos arquivos durante o processo de desenvolvimento. criando as telas vazias 
+
+##  Configuração inicial do projeto => 3° Etapa
+Esta relacionado as configurações que o aplicativo precisa para funcionr por exemplo a navegação. vamos criar a navegação do aplicativo definindo que ele vai utilizar Stack navigation e criado as rotas . 
+
+## Criação de Telas => 4° Etapa
+Começamos a dar a aparência visual para o aplicativo. Nessa pararte definimos o que cada tela vai exibir e a sua aparência.
+
