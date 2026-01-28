@@ -2,9 +2,9 @@ import { NavigationContainer } from "@react-navigation/native";
 import { createStackNavigator } from "@react-navigation/stack";
 
 import TelaInicial from "./componentes/TelaInicial";
-import TelaRestaurantes from "./componentes/restaurantes";
+import TelaRestaurantes from "./componentes/TelaRestaurantes";
 import TelaPasseios from "./componentes/TelaPasseios";
-import TelaHospedagem from "./componentes/Hospedagem";
+import TelaHospedagem from "./componentes/TelaHospedagem";
 
 const Stack = createStackNavigator()
 
